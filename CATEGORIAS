@@ -62,7 +62,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gray]SPORTS[/COLOR]</name>
+<name>[COLOR black]SPORTS[/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/16/items/newcategory.midbox/SPORTS%20ICON.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/sports.m3u</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
@@ -72,7 +72,7 @@
 
 <channels>
 <channel>
-<name>[COLOR black]MOTORSPORTS[/COLOR]</name>
+<name>[COLOR gray]MOTORSPORTS[/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/16/items/newcategory.midbox/MOTORSPORTS%20ICON.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/motorsports.m3u</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
