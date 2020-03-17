@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 ,11 HD
+http://62.203.143.51:9981/play/11HD
+#EXTINF:-1 ,24 Kitchen HD
+http://62.203.143.51:9981/play/KitchenHD
+#EXTINF:-1 ,A Bola TV
+http://62.203.143.51:9981/play/BolaTV
+#EXTINF:-1 ,AMC
+http://62.203.143.51:9981/play/AMC
+#EXTINF:-1 ,ARTV
+http://62.203.143.51:9981/play/ARTV
+#EXTINF:-1 ,AXN Black HD
+http://62.203.143.51:9981/play/BlackHD
+#EXTINF:-1 ,AXN HD
+http://62.203.143.51:9981/play/AXNHD
+#EXTINF:-1 ,AXN White HD
+http://62.203.143.51:9981/play/WhiteHD
+#EXTINF:-1 ,Afro Music
+http://62.203.143.51:9981/play/AfroMu
+#EXTINF:-1 ,BTV HD
+http://62.203.143.51:9981/play/BTVHD
+#EXTINF:-1 ,Baby TV
+http://62.203.143.51:9981/play/BabyTV
+#EXTINF:-1 ,Bloomberg
+http://62.203.143.51:9981/play/Bloomb
+#EXTINF:-1 ,CBS Reality
+http://62.203.143.51:9981/play/CBSRea
+#EXTINF:-1 ,CMTV
+http://62.203.143.51:9981/play/CMTV
+#EXTINF:-1 ,CNBC Europe
+http://62.203.143.51:9981/play/CNBCEu
+#EXTINF:-1 ,Canal Panda
+http://62.203.143.51:9981/play/CanalPan
+#EXTINF:-1 ,Canal Q
+http://62.203.143.51:9981/play/CanalQ
+#EXTINF:-1 ,Cartoon Network
+http://62.203.143.51:9981/play/CartNet
+#EXTINF:-1 ,Cinemundo
+http://62.203.143.51:9981/play/Cinem
+#EXTINF:-1 ,Crime+Investigation
+http://62.203.143.51:9981/play/Crimenve
+#EXTINF:-1 ,Disney Channel
+http://62.203.143.51:9981/play/a0on
+#EXTINF:-1 ,E! Entertainment
+http://62.203.143.51:9981/play/EEnter
+#EXTINF:-1 ,Eleven Sports 1 HD
+http://62.203.143.51:9981/play/Eleven1HD
+#EXTINF:-1 ,Eleven Sports 2 HD
+http://62.203.143.51:9981/play/ElevenSpor2HD
+#EXTINF:-1 ,Eleven Sports 3
+http://62.203.143.51:9981/play/ElevenSpo3
+#EXTINF:-1 ,Eleven Sports 4
+http://62.203.143.51:9981/play/Elevsrts4
+#EXTINF:-1 ,Eleven Sports 5
+http://62.203.143.51:9981/play/EleSports5
+#EXTINF:-1 ,Eleven Sports 6
+http://62.203.143.51:9981/play/ElevenSpo6
+#EXTINF:-1 ,Eurochannel
+http://62.203.143.51:9981/play/Eurocha
+#EXTINF:-1 ,Eurosport 1
+http://62.203.143.51:9981/play/Eur1
+#EXTINF:-1 ,Eurosport 1 HD
+http://62.203.143.51:9981/play/Eusport1HD
+#EXTINF:-1 ,Eurosport 2
+http://62.203.143.51:9981/play/Eurosp2
+#EXTINF:-1 ,FOX Comedy
+http://62.203.143.51:9981/play/FOXCom
+#EXTINF:-1 ,FOX Crime HD
+http://62.203.143.51:9981/play/CrimeH
+#EXTINF:-1 ,FOX HD
+http://62.203.143.51:9981/play/FOXHD
+#EXTINF:-1 ,FOX Life HD
+http://62.203.143.51:9981/play/LifeHD
+#EXTINF:-1 ,FTV
+http://62.203.143.51:9981/play/FTV
+#EXTINF:-1 ,Globo
+http://62.203.143.51:9981/play/Globo
+#EXTINF:-1 ,Hollywood
+http://62.203.143.51:9981/play/Holly
+#EXTINF:-1 ,Hollywood HD
+http://62.203.143.51:9981/play/HollHD
+#EXTINF:-1 ,Jim Jam
+http://62.203.143.51:9981/play/JimJ
+#EXTINF:-1 ,Kombat Sport
+http://62.203.143.51:9981/play/KombatSpor
+#EXTINF:-1 ,Kuriakos TV
+http://62.203.143.51:9981/play/KuriakosTV
+#EXTINF:-1 ,MCM POP
+http://62.203.143.51:9981/play/MCMPO
+#EXTINF:-1 ,MTV Portugal
+http://62.203.143.51:9981/play/MTVPor
+#EXTINF:-1 ,NBA TV
+http://62.203.143.51:9981/play/NBATV
+#EXTINF:-1 ,NHK World Japan
+http://62.203.143.51:9981/play/WorldJa
+#EXTINF:-1 ,National Geographic HD
+http://62.203.143.51:9981/play/NationalGeo
+#EXTINF:-1 ,National Geographic Wild
+http://62.203.143.51:9981/play/NatiGeog
+#EXTINF:-1 ,Odisseia
+http://62.203.143.51:9981/play/Odiss
+#EXTINF:-1 ,Playboy TV
+http://62.203.143.51:9981/play/PlayyTV
+#EXTINF:-1 ,Porto Canal
+http://62.203.143.51:9981/play/PortCa
+#EXTINF:-1 ,RTP .frica
+http://62.203.143.51:9981/play/RTPfr
+#EXTINF:-1 ,RTP 1
+http://62.203.143.51:9981/play/RTP1
+#EXTINF:-1 ,RTP 2
+http://62.203.143.51:9981/play/RTP2
+#EXTINF:-1 ,RTP 3
+http://62.203.143.51:9981/play/RTP3
+#EXTINF:-1 ,RTP Madeira
+http://62.203.143.51:9981/play/Madeira
+#EXTINF:-1 ,SIC
+http://62.203.143.51:9981/play/SIC
+#EXTINF:-1 ,SIC Caras
+http://62.203.143.51:9981/play/SICCa
+#EXTINF:-1 ,SIC K
+http://62.203.143.51:9981/play/SICK
+#EXTINF:-1 ,SIC Radical
+http://62.203.143.51:9981/play/SICRad
+#EXTINF:-1 ,SPORT TV 1
+http://62.203.143.51:9981/play/SPORTTV1
+#EXTINF:-1 ,SPORT TV 1 HD
+http://62.203.143.51:9981/play/SPORTV1HD
+#EXTINF:-1 ,SPORT TV 2
+http://62.203.143.51:9981/play/SPORTV2
+#EXTINF:-1 ,SPORT TV 2 HD
+http://62.203.143.51:9981/play/SPORT2HD
+#EXTINF:-1 ,SPORT TV 3
+http://62.203.143.51:9981/play/SPORT3
+#EXTINF:-1 ,SPORT TV 3 HD
+http://62.203.143.51:9981/play/SPORT3HD
+#EXTINF:-1 ,TV Record
+http://62.203.143.51:9981/play/TVRe
+#EXTINF:-1 ,TVCine 1
+http://62.203.143.51:9981/play/TVCi1
+#EXTINF:-1 ,TVCine 2
+http://62.203.143.51:9981/play/TVCi2
+#EXTINF:-1 ,TVCine 3
+http://62.203.143.51:9981/play/TVCi3
+#EXTINF:-1 ,TVCine 4
+http://62.203.143.51:9981/play/TVCi4
+#EXTINF:-1 ,TVI
+http://62.203.143.51:9981/play/TVI
+#EXTINF:-1 ,TVI 24
+http://62.203.143.51:9981/play/TVI24
+#EXTINF:-1 ,TVI FicĿªo
+http://62.203.143.51:9981/play/TVIFic
+#EXTINF:-1 ,Trace Urban
+http://62.203.143.51:9981/play/TraceUr
+#EXTINF:-1 ,Travel Channel HD
+http://62.203.143.51:9981/play/TravelHD
+#EXTINF:-1 ,Venus
+http://62.203.143.51:9981/play/Venus
