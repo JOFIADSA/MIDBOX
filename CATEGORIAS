@@ -3,13 +3,9 @@
 <channel>
 <name>[COLOR red]FILMES[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/filmes%20icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/FILMES</externallink>
+<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/movies.m3u</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
-
-| LANÇAMENTOS |</info>
-</channel>
-</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -21,10 +17,6 @@
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
-| SERIES |</info>
-</channel>
-</channels>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
@@ -35,23 +27,16 @@
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
-| ANIMES - MANGA |</info>
-</channel>
-</channels>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
 <name>[COLOR green]KIDS[/COLOR]</name>
 <thumbnail>https://ia601403.us.archive.org/9/items/kids.midbox/kids%20icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/KIDS</externallink>
+<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/kids.m3u</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
-| ENTRETENIMENTO PARA CRIANÇAS |</info>
-</channel>
-</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -59,27 +44,39 @@
 <channel>
 <name>[COLOR deepskyblue]SITEMA TV[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/sistematv%20icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SISTEMATV</externallink>
+<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/pt.m3u</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
-
-| SITEMA TV |</info>
-</channel>
-</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
 <name>[COLOR purple]INTERNACIONAL TV[/COLOR]</name>
-<thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/sistematv%20icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/amadu80/myIPTVchannels/master/international.m3u</externallink>
+<thumbnail>https://ia601405.us.archive.org/16/items/newcategory.midbox/INTERNACIONAL%20ICON.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/international.m3u</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
-| SITEMA TV |</info>
-</channel>
-</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gray]SPORTS[/COLOR]</name>
+<thumbnail>https://ia601405.us.archive.org/16/items/newcategory.midbox/SPORTS%20ICON.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/sports.m3u</externallink>
+<fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR black]MOTORSPORTS[/COLOR]</name>
+<thumbnail>https://ia601405.us.archive.org/16/items/newcategory.midbox/MOTORSPORTS%20ICON.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/motorsports.m3u</externallink>
+<fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
+<info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -87,12 +84,8 @@
 <channel>
 <name>[COLOR ivory]ADULTOS[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/22/items/sistema.midbox/adultos%20icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/LISTA%20DE%20ADULTOS</externallink>
+<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/adult.m3u</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
-| ENTRETENIMENTO PARA ADULTOS - NÂO ACONSELHÁVEL A MENORES DE 18 |</info>
-</channel>
-</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
