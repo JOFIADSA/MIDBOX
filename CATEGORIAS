@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR 	mediumaquamarine]FILMES</name>
+<name>[COLOR mediumaquamarine]FILMES[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/filmes%20icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
@@ -14,7 +14,7 @@
 
 <channels>
 <channel>
-<name>[COLOR darkcyan]SERIES</name>
+<name>[COLOR darkcyan]SERIES[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/series%20icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
@@ -27,7 +27,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lightgoldenrodyellow]ANIMES</name>
+<name>[COLOR lightgoldenrodyellow]ANIMES[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/22/items/sistema.midbox/animes%20icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
@@ -40,7 +40,7 @@
 
 <channels>
 <channel>
-<name>[COLOR plum]KIDS</name>
+<name>[COLOR plum]KIDS[/COLOR]</name>
 <thumbnail>https://ia601403.us.archive.org/9/items/kids.midbox/kids%20icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
@@ -67,7 +67,7 @@
 
 <channels>
 <channel>
-<name>[COLOR alizarin]ADULTOS</name>
+<name>[COLOR alizarin]ADULTOS[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/22/items/sistema.midbox/adultos%20icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
