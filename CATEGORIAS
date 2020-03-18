@@ -1,9 +1,17 @@
-
 <channels>
 <channel>
 <name>[COLOR white](====== .::MIDBOX - MULTIMIDIA BOX::. ======)[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR marrow]FILMES & SERIES[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/Filmes%20Series%20%26%20Animes</externallink>
 <fanart></fanart>
 <info>
 
@@ -17,7 +25,7 @@
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/Filmes%20Series%20%26%20Animes
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
