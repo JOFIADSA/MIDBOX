@@ -1,13 +1,23 @@
 
 <channels>
 <channel>
+<name>[COLOR white]FILMES SERIES & ANIMES[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR red]FILMES[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/filmes%20icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/movies.m3u</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/Filmes%20Series%20%26%20Animes
 
 <channels>
 <channel>
