@@ -1,9 +1,9 @@
 
 <channels>
 <channel>
-<name>[COLOR white]FILMES SERIES & ANIMES[/COLOR]</name>
+<name>[COLOR white]{.::MIDBOX - MULTIMIDIA BOX::.}[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/Filmes%20Series%20%26%20Animes</externallink>
+<externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR red]FILMES[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/filmes%20icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/myIPTVChannels/lists/master/movies.m3u</externallink>
+<externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
@@ -23,7 +23,7 @@
 <channel>
 <name>[COLOR orange]SERIES[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/series%20icon.png</thumbnail>
-<externallink></externallink>
+<externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
@@ -33,7 +33,7 @@
 <channel>
 <name>[COLOR yellow]ANIMES[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/22/items/sistema.midbox/animes%20icon.png</thumbnail>
-<externallink></externallink>
+<externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
@@ -43,7 +43,7 @@
 <channel>
 <name>[COLOR green]KIDS[/COLOR]</name>
 <thumbnail>https://ia601403.us.archive.org/9/items/kids.midbox/kids%20icon.png</thumbnail>
-<externallink></externallink>
+<externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
@@ -54,7 +54,7 @@
 <channel>
 <name>[COLOR deepskyblue]SITEMA TV[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/25/items/repo.midbox/sistematv%20icon.png</thumbnail>
-<externallink></externallink>
+<externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
@@ -64,7 +64,7 @@
 <channel>
 <name>[COLOR purple]SPORTS[/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/16/items/newcategory.midbox/SPORTS%20ICON.png</thumbnail>
-<externallink></externallink>
+<externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
@@ -74,7 +74,7 @@
 <channel>
 <name>[COLOR black]MOTORSPORTS[/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/16/items/newcategory.midbox/MOTORSPORTS%20ICON.png</thumbnail>
-<externallink></externallink>
+<externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
@@ -84,7 +84,7 @@
 <channel>
 <name>[COLOR gray]ADULTOS[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/22/items/sistema.midbox/adultos%20icon.png</thumbnail>
-<externallink></externallink>
+<externallink>https://</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
 <info>
 
