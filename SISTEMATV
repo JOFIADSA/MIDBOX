@@ -8,21 +8,19 @@ Servidor 1
 <channels>
 <channel>
 <name>[COLOR white].::SERVIDOR 1::.[/COLOR]</name>
-<link>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR1$$lsname=[COLOR black]MIDBOX[/COLOR] [COLOR white]SERVIDOR 1[/COLOR]</link>
-<thumbnail>https://i.imgur.com/Vhkovxn.png</thumbnail>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR1</externallink>
 <fanart></fanart>
-<info></info>
-</link>
+<info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 Servidor 2
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR white].::SERVIDOR 2::.[/COLOR]</name>
-<link>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR2$$lsname=[COLOR black]MIDBOX[/COLOR] [COLOR white]SERVIDOR 2[/COLOR]</link>
 <thumbnail>https://i.imgur.com/gBdiac6.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR2</externallink>
 <fanart></fanart>
 <info></info>
 </link>
@@ -34,8 +32,8 @@ Servidor 3
 <channels>
 <channel>
 <name>[COLOR white].::SERVIDOR 3::.[/COLOR]</name>
-<link>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR3$$lsname=[COLOR black]MIDBOX[/COLOR] [COLOR white]SERVIDOR 3[/COLOR]</link>
 <thumbnail>https://i.imgur.com/AjmBiju.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR3</externallink>
 <fanart></fanart>
 <info></info>
 </link>
@@ -43,12 +41,11 @@ Servidor 3
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 Servidor 4
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR white].::SERVIDOR 4::.[/COLOR]</name>
-<link>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR4$$lsname=[COLOR black]MIDBOX[/COLOR] [COLOR white]SERVIDOR 4[/COLOR]</link>
 <thumbnail>https://i.imgur.com/Ym7JYsw.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR4</externallink>
 <fanart></fanart>
 <info></info>
 </link>
