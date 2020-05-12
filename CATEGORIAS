@@ -1,7 +1,7 @@
 <channels>
 <channel>
-<name>[COLOR white](====== .::MIDBOX - MULTIMIDIA BOX::. ======)[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR black](======[/COLOR] [COLOR blue].::[/COLOR][COLOR white]MIDBOX - MULTIMIDIA BOX[/COLOR][COLOR blue]::.[/COLOR] [COLOR black]======)[/COLOR]</name>
+<thumbnail>https://i.imgur.com/J0zoFHt.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
@@ -11,10 +11,49 @@
 <channels>
 <channel>
 <name>[COLOR blue]MIDBOX[/COLOR] [COLOR white]SISTEMA TV[/COLOR]</name>
-<thumbnail>https://i.imgur.com/vmUmpm4.png</thumbnail>
+<thumbnail>https://i.imgur.com/kCl5xLw.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SISTEMATV</externallink>
 <fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
 <info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR white]FILMES & SERIES[/COLOR]</name>
+<thumbnail>https://i.imgur.com/zxiMnXb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SISTEMATV</externallink>
+<fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR white]ANIMES[/COLOR]</name>
+<thumbnail>https://i.imgur.com/pkJJOMD.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SISTEMATV</externallink>
+<fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR white]SPORTS[/COLOR]</name>
+<thumbnail>https://i.imgur.com/Lm6vGO1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SISTEMATV</externallink>
+<fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR white]ADULTOS[/COLOR]</name>
+<thumbnail>https://i.imgur.com/vL2ecTU.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SISTEMATV</externallink>
+<fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
