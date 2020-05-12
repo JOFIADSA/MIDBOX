@@ -1,37 +1,98 @@
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO UNIVERSAL
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#EXTM3U
+#EXTINF:0 group-title="ADULTO"
 
-<item>
-<title></<title>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</link>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL PLAY BOY
+http://maxptv.net:8080/live/asterix/asterix/88.m3u8
 
-<item>
-<title></<title>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</link>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL VENUS
+https://edge-live12-hr.cvattv.com.ar/live/c2live/Venus/verimatrix_rotating_FTA/Venus-video=1532000.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL BIGASS
+http://cdn.adultiptv.net/bigass.m3u8
 
-<item>
-<title></<title>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<link>URL AQUI$$lsname=[COLOR black]MIDBOX[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</link>
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL BIGDICK
+http://cdn.adultiptv.net/bigdick.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL BIGTITS
+http://cdn.adultiptv.net/bigtits.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL BLONDE
+http://cdn.adultiptv.net/blonde.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL BLOWJOB
+http://cdn.adultiptv.net/blowjob.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL BRUNETTE
+http://cdn.adultiptv.net/brunette.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL COMPILATION
+http://cdn.adultiptv.net/compilation.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL CUCKOLD
+http://cdn.adultiptv.net/cuckold.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL GANGBANG
+http://cdn.adultiptv.net/gangbang.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL HARDCORE
+http://cdn.adultiptv.net/hardcore.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL INTERRACIAL
+http://cdn.adultiptv.net/interracial.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL LESBIAN
+http://cdn.adultiptv.net/lesbian.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL PORNSTAR
+http://cdn.adultiptv.net/pornstar.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL POV
+http://cdn.adultiptv.net/pov.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL ROUGH
+http://cdn.adultiptv.net/rough.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL RUSSIAN
+http://cdn.adultiptv.net/russian.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL TEEN
+http://cdn.adultiptv.net/teen.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL THREESOME
+http://cdn.adultiptv.net/threesome.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL CREAMPIE
+http://cdn.adultiptv.net/creampie.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL EBONY
+http://cdn.adultiptv.net/ebony.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL SEXTREME
+http://maxptv.net:8080/live/asterix/asterix/57.m3u8
+
+
+#EXTINF:-1 tvg-logo=""(ADULTO)",CANAL SEXY HOT
+http://maxptv.net:8080/live/asterix/asterix/55.m3u8
