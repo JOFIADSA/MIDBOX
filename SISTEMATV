@@ -26,26 +26,13 @@ Servidor BR
 <info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-Servidor World 1
+Servidor World
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR WORLD 1[/COLOR]</name>
-<thumbnail>https://i.imgur.com/xjSRsBy.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/ServidorWorld1.m3u</externallink>
-<fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
-<info></info>
-</link>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-Servidor World 2
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR WORLD 2[/COLOR]</name>
-<thumbnail>https://i.imgur.com/8CB7ueu.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20WORLD%202</externallink>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR WORLD[/COLOR]</name>
+<thumbnail>https://i.imgur.com/AujW12F.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20WORLD</externallink>
 <fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
 <info></info>
 </link>
