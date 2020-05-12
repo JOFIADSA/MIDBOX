@@ -3,12 +3,24 @@ MODELO UNIVERSAL
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Servidor PT
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR PT[/COLOR]</name>
+<thumbnail>https://i.imgur.com/yRYxB4A.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20PT</externallink>
+<fanart></fanart>
+<info></info>
+</link>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 Servidor BR
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
 <name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR BR[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/a41GHPM.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20BR</externallink>
 <fanart></fanart>
 <info>
@@ -19,8 +31,8 @@ Servidor World 1
 <channels>
 <channel>
 <name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR WORLD 1[/COLOR]</name>
-<thumbnail>https://i.imgur.com/gBdiac6.png</thumbnail>
-<externallink>https://</externallink>
+<thumbnail>https://i.imgur.com/xjSRsBy.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20WORLD%20</externallink>
 <fanart></fanart>
 <info></info>
 </link>
@@ -32,20 +44,8 @@ Servidor World 2
 <channels>
 <channel>
 <name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR WORLD 2[/COLOR]</name>
-<thumbnail>https://i.imgur.com/AjmBiju.png</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info></info>
-</link>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-Servidor 4
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR 4[/COLOR]</name>
-<thumbnail>https://i.imgur.com/Ym7JYsw.png</thumbnail>
-<externallink>https://</externallink>
+<thumbnail>https://i.imgur.com/8CB7ueu.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20WORLD%202</externallink>
 <fanart></fanart>
 <info></info>
 </link>
