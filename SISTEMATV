@@ -3,22 +3,22 @@ MODELO UNIVERSAL
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-Servidor 1
+Servidor BR
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR 1[/COLOR]</name>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR BR[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR1</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20BR</externallink>
 <fanart></fanart>
 <info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-Servidor 2
+Servidor World 1
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR 2[/COLOR]</name>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR WORLD 1[/COLOR]</name>
 <thumbnail>https://i.imgur.com/gBdiac6.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -26,12 +26,12 @@ Servidor 2
 </link>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-Servidor 3
+Servidor World 2
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR 3[/COLOR]</name>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR WORLD 2[/COLOR]</name>
 <thumbnail>https://i.imgur.com/AjmBiju.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
