@@ -1,0 +1,599 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Canais Séries",A&E HD
+http://maxptv.net:8080/live/asterix/asterix/236.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Canais Séries",A&E SD
+http://maxptv.net:8080/live/asterix/asterix/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amc HD" tvg-logo="" group-title="Filmes",Amc HD
+http://maxptv.net:8080/live/asterix/asterix/512.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://ambiente.rd1.com.br/wp-content/uploads/2014/08/AMC_logo_2013.png" group-title="Filmes",AMC SD
+http://maxptv.net:8080/live/asterix/asterix/233.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Animal_Planet_original.png/revision/latest?cb=20091119143730" group-title="Documentários",Animal Planet HD
+http://maxptv.net:8080/live/asterix/asterix/232.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Animal_Planet_original.png/revision/latest?cb=20091119143730" group-title="Documentários",Animal Planet SD
+http://maxptv.net:8080/live/asterix/asterix/231.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="" group-title="Canais Séries",AXN HD
+http://maxptv.net:8080/live/asterix/asterix/535.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://i.imgur.com/ZLpNJi8.png" group-title="Canais Séries",AXN SD
+http://maxptv.net:8080/live/asterix/asterix/227.m3u8
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV HD" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Infantis",BabyTV HD
+http://maxptv.net:8080/live/asterix/asterix/226.m3u8
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV SD" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Infantis",BabyTV SD
+http://maxptv.net:8080/live/asterix/asterix/225.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Campinas HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="Canais Abertos",Band Campinas HD
+http://maxptv.net:8080/live/asterix/asterix/242.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Campinas SD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/02/Band-Logo.jpg" group-title="Canais Abertos",Band Campinas SD
+http://maxptv.net:8080/live/asterix/asterix/241.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Notícias",Band News HD
+http://maxptv.net:8080/live/asterix/asterix/224.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Notícias",Band News SD
+http://maxptv.net:8080/live/asterix/asterix/223.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD" tvg-logo="https://i0.wp.com/faclubeband.com.br/wp-content/uploads/2018/04/20170303_162558.png?resize=800%2C445" group-title="Canais Abertos",Band SP HD
+http://maxptv.net:8080/live/asterix/asterix/130.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP SD" tvg-logo="https://i0.wp.com/faclubeband.com.br/wp-content/uploads/2018/04/20170303_162558.png?resize=800%2C445" group-title="Canais Abertos",Band SP SD
+http://maxptv.net:8080/live/asterix/asterix/129.m3u8
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2019/08/bandsports-fabio-moraes-imprensa-mahon.jpg" group-title="Esportes",Band Sports HD
+http://maxptv.net:8080/live/asterix/asterix/221.m3u8
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports SD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2019/08/bandsports-fabio-moraes-imprensa-mahon.jpg" group-title="Esportes",Band Sports SD
+http://maxptv.net:8080/live/asterix/asterix/220.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIZ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Entreterimento/Musíca",BIZ HD
+http://maxptv.net:8080/live/asterix/asterix/219.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIZ SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Entreterimento/Musíca",BIZ SD
+http://maxptv.net:8080/live/asterix/asterix/218.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Infantis",Boomerang HD
+http://maxptv.net:8080/live/asterix/asterix/217.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Infantis",Boomerang SD
+http://maxptv.net:8080/live/asterix/asterix/216.m3u8
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canção Nova HD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png" group-title="Canais Religião",Canal Canção Nova HD
+http://maxptv.net:8080/live/asterix/asterix/215.m3u8
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canal Canção SD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png" group-title="Canais Religião",Canal Canal Canção SD
+http://maxptv.net:8080/live/asterix/asterix/214.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Documentários",Canal Futura HD
+http://maxptv.net:8080/live/asterix/asterix/211.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Documentários",Canal Futura SD
+http://maxptv.net:8080/live/asterix/asterix/210.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Canal Curta! HD" tvg-logo="http://www.aaerj.org.br/wp-content/uploads/2014/04/logo.png" group-title="Variedades",Canal Curta! HD
+http://maxptv.net:8080/live/asterix/asterix/213.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Canal Curta! SD" tvg-logo="http://www.aaerj.org.br/wp-content/uploads/2014/04/logo.png" group-title="Variedades",Canal Curta! SD
+http://maxptv.net:8080/live/asterix/asterix/212.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Canal HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Documentários",Canal HGTV HD
+http://maxptv.net:8080/live/asterix/asterix/193.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Canal HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Documentários",Canal HGTV SD
+http://maxptv.net:8080/live/asterix/asterix/192.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="Canal OFF HD" tvg-logo="http://localtrip.com.br/site/wp-content/uploads/2010/10/canaloff.jpg" group-title="Variedades",Canal OFF HD
+http://maxptv.net:8080/live/asterix/asterix/209.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="Canal OFF SD" tvg-logo="http://localtrip.com.br/site/wp-content/uploads/2010/10/canaloff.jpg" group-title="Variedades",Canal OFF SD
+http://maxptv.net:8080/live/asterix/asterix/208.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Canal Woohoo HD" tvg-logo="https://3.bp.blogspot.com/--K3pkI0Fhrw/Wh8dXDM8-LI/AAAAAAABBqw/aLYkE3xa-VsQWn0OeWaQ2YbLIqxq1p9GQCLcBGAs/s1600/woohoo.jpg" group-title="Variedades",Canal Woohoo HD
+http://maxptv.net:8080/live/asterix/asterix/207.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Canal Woohoo SD" tvg-logo="https://3.bp.blogspot.com/--K3pkI0Fhrw/Wh8dXDM8-LI/AAAAAAABBqw/aLYkE3xa-VsQWn0OeWaQ2YbLIqxq1p9GQCLcBGAs/s1600/woohoo.jpg" group-title="Variedades",Canal Woohoo SD
+http://maxptv.net:8080/live/asterix/asterix/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Infantis",Cartoon Network HD
+http://maxptv.net:8080/live/asterix/asterix/524.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://1.bp.blogspot.com/-7tds6UwE2SM/V1biccnDB0I/AAAAAAABg0s/ZKp2xPRrWsgjucW-mYu6qPlWeep3g28UQCLcB/s1600/cartoon%2Blogo.jpg" group-title="Infantis",Cartoon Network SD
+http://maxptv.net:8080/live/asterix/asterix/204.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Canais Séries",Comedy Central HD
+http://maxptv.net:8080/live/asterix/asterix/199.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Canais Séries",Comedy Central SD
+http://maxptv.net:8080/live/asterix/asterix/198.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD" tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Canais Premiere",Combate HD
+http://maxptv.net:8080/live/asterix/asterix/201.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate SD" tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Canais Premiere",Combate SD
+http://maxptv.net:8080/live/asterix/asterix/200.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://1.bp.blogspot.com/-Fl--OqYGNA8/VAD9YvxsndI/AAAAAAAAjYY/Wo2r4Z6u_DQ/s1600/cinemax_novologo.jpg" group-title="Canais HBO",Cinemax HD
+http://maxptv.net:8080/live/asterix/asterix/203.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="Canais HBO",Cinemax SD
+http://maxptv.net:8080/live/asterix/asterix/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider 24H" tvg-logo="" group-title="Canais 24 Horas",Black Kamen Rider 24H
+http://maxptv.net:8080/live/asterix/asterix/537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H" tvg-logo="" group-title="Canais 24 Horas",Canal CSI 24H
+http://maxptv.net:8080/live/asterix/asterix/538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action 24H Ultra HD" tvg-logo="" group-title="Canais 24 Horas",Cine Action 24H Ultra HD
+http://maxptv.net:8080/live/asterix/asterix/548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Aventura 24H Ultra HD" tvg-logo="" group-title="Canais 24 Horas",Cine Aventura 24H Ultra HD
+http://maxptv.net:8080/live/asterix/asterix/549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="" group-title="Canais 24 Horas",Cine Drama 24H Ultra HD
+http://maxptv.net:8080/live/asterix/asterix/550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Family 24H" tvg-logo="" group-title="Canais 24 Horas",Cine Family 24H
+http://maxptv.net:8080/live/asterix/asterix/551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Faroeste 24H Ultra HD" tvg-logo="" group-title="Canais 24 Horas",Cine Faroeste 24H Ultra HD
+http://maxptv.net:8080/live/asterix/asterix/1478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="" group-title="Canais 24 Horas",Cine Fiction 24H Ultra HD
+http://maxptv.net:8080/live/asterix/asterix/536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fun 24H Ultra HD" tvg-logo="" group-title="Canais 24 Horas",Cine Fun 24H Ultra HD
+http://maxptv.net:8080/live/asterix/asterix/552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="" group-title="Canais 24 Horas",Cine Guerra 24H Ultra HD
+http://maxptv.net:8080/live/asterix/asterix/1477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Horror 24H Ultra HD" tvg-logo="" group-title="Canais 24 Horas",Cine Horror 24H Ultra HD
+http://maxptv.net:8080/live/asterix/asterix/553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24H ULTRA HD" tvg-logo="" group-title="Canais 24 Horas",CINE KIDS 24H ULTRA HD
+http://maxptv.net:8080/live/asterix/asterix/554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Nacionais 24H" tvg-logo="" group-title="Canais 24 Horas",CINE Nacionais 24H
+http://maxptv.net:8080/live/asterix/asterix/555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="" group-title="Canais 24 Horas",Como eu Conheci a Sua Mae  24H
+http://maxptv.net:8080/live/asterix/asterix/567.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais Abertos",Cultura HD
+http://maxptv.net:8080/live/asterix/asterix/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA HD FHD" tvg-logo="" group-title="",CULTURA HD FHD
+http://maxptv.net:8080/live/asterix/asterix/3040.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais Abertos",Cultura SD
+http://maxptv.net:8080/live/asterix/asterix/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cybercop 24H" tvg-logo="" group-title="Canais 24 Horas",Cybercop 24H
+http://maxptv.net:8080/live/asterix/asterix/1479.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://www.clarohd.com.br/blog/wp-content/uploads/2015/07/Discovery_Channel_claro-tv-.png" group-title="Documentários",Discovery Channel HD
+http://maxptv.net:8080/live/asterix/asterix/195.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://www.clarohd.com.br/blog/wp-content/uploads/2015/07/Discovery_Channel_claro-tv-.png" group-title="Documentários",Discovery Channel SD
+http://maxptv.net:8080/live/asterix/asterix/194.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png" group-title="Variedades",Discovery Home & Health HD
+http://maxptv.net:8080/live/asterix/asterix/191.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png" group-title="Variedades",Discovery Home & Health SD
+http://maxptv.net:8080/live/asterix/asterix/190.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://4.bp.blogspot.com/-cX0An73B5U8/Ugvz2VU5WII/AAAAAAABLdQ/BAv4QTE2h0I/s1600/dk+logo.jpg" group-title="Infantis",Discovery Kids HD
+http://maxptv.net:8080/live/asterix/asterix/189.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://4.bp.blogspot.com/-cX0An73B5U8/Ugvz2VU5WII/AAAAAAABLdQ/BAv4QTE2h0I/s1600/dk+logo.jpg" group-title="Infantis",Discovery Kids SD
+http://maxptv.net:8080/live/asterix/asterix/188.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://pluspng.com/img-png/science-png-hd-file-discovery-science-hd-png-575.png" group-title="Documentários",Discovery Science HD
+http://maxptv.net:8080/live/asterix/asterix/187.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="http://pluspng.com/img-png/science-png-hd-file-discovery-science-hd-png-575.png" group-title="Documentários",Discovery Science SD
+http://maxptv.net:8080/live/asterix/asterix/186.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentários",Discovery Theater HD
+http://maxptv.net:8080/live/asterix/asterix/185.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentários",Discovery Theater SD
+http://maxptv.net:8080/live/asterix/asterix/184.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentários",Discovery Turbo HD
+http://maxptv.net:8080/live/asterix/asterix/183.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentários",Discovery Turbo SD
+http://maxptv.net:8080/live/asterix/asterix/182.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2015/02/fim-do-tlc-discovery-world-hd.jpg" group-title="Documentários",Discovery World HD
+http://maxptv.net:8080/live/asterix/asterix/181.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2015/02/fim-do-tlc-discovery-world-hd.jpg" group-title="Documentários",Discovery World SD
+http://maxptv.net:8080/live/asterix/asterix/180.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel  HD" tvg-logo="http://3.bp.blogspot.com/-2j402qdyQy4/U9fzYHdD_VI/AAAAAAAAjQo/bpqg22XcTiU/s1600/DC_LGO_E_BLU_RGB-665x400.png" group-title="Infantis",Disney Channel  HD
+http://maxptv.net:8080/live/asterix/asterix/179.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="http://3.bp.blogspot.com/-2j402qdyQy4/U9fzYHdD_VI/AAAAAAAAjQo/bpqg22XcTiU/s1600/DC_LGO_E_BLU_RGB-665x400.png" group-title="Infantis",Disney Channel SD
+http://maxptv.net:8080/live/asterix/asterix/178.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantis",Disney Junior HD
+http://maxptv.net:8080/live/asterix/asterix/177.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Infantis",Disney Junior SD
+http://maxptv.net:8080/live/asterix/asterix/176.m3u8
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD" tvg-logo="https://3.bp.blogspot.com/_4bTWcw7MUFo/SlCh-1j5WMI/AAAAAAAAAyo/9MfXAi1GCSU/s400/Disney+XD+Logo.jpg" group-title="Infantis",Disney XD HD
+http://maxptv.net:8080/live/asterix/asterix/175.m3u8
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD SD" tvg-logo="https://3.bp.blogspot.com/_4bTWcw7MUFo/SlCh-1j5WMI/AAAAAAAAAyo/9MfXAi1GCSU/s400/Disney+XD+Logo.jpg" group-title="Infantis",Disney XD SD
+http://maxptv.net:8080/live/asterix/asterix/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DR. House 24HR" tvg-logo="" group-title="Canais 24 Horas",DR. House 24HR
+http://maxptv.net:8080/live/asterix/asterix/568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragoes  24H" tvg-logo="https://i.imgur.com/FjmeFap.jpg" group-title="Canais 24 Horas",Dragoes  24H
+http://maxptv.net:8080/live/asterix/asterix/1480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="Canais Séries",E! HD
+http://maxptv.net:8080/live/asterix/asterix/516.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="Canais Séries",E! SD
+http://maxptv.net:8080/live/asterix/asterix/172.m3u8
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV Campinas HD" tvg-logo="http://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="Canais Abertos",EPTV Campinas HD
+http://maxptv.net:8080/live/asterix/asterix/238.m3u8
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV Campinas HD 2" tvg-logo="http://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="Canais Abertos",EPTV Campinas HD 2
+http://maxptv.net:8080/live/asterix/asterix/246.m3u8
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV Campinas SD" tvg-logo="http://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="Canais Abertos",EPTV Campinas SD
+http://maxptv.net:8080/live/asterix/asterix/237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eptv FHD Ribeirao" tvg-logo="" group-title="",Eptv FHD Ribeirao
+http://maxptv.net:8080/live/asterix/asterix/3073.m3u8
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn  2 HD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2017/01/ESPN.jpg" group-title="Esportes",Espn  2 HD
+http://maxptv.net:8080/live/asterix/asterix/171.m3u8
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn  2 SD " tvg-logo="https://auvaromaia.com/wp-content/uploads/2017/01/ESPN.jpg" group-title="Esportes",Espn  2 SD 
+http://maxptv.net:8080/live/asterix/asterix/170.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="Espn Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",Espn Brasil HD
+http://maxptv.net:8080/live/asterix/asterix/169.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="Espn Brasil SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",Espn Brasil SD
+http://maxptv.net:8080/live/asterix/asterix/168.m3u8
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="Espn Extra  SD" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-122106-banners-pacotes-opcionais-espn-extra.png" group-title="Esportes",Espn Extra  SD
+http://maxptv.net:8080/live/asterix/asterix/164.m3u8
+#EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="Espn Extra HD" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-122106-banners-pacotes-opcionais-espn-extra.png" group-title="Esportes",Espn Extra HD
+http://maxptv.net:8080/live/asterix/asterix/165.m3u8
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn HD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2017/01/ESPN.jpg" group-title="Esportes",Espn HD
+http://maxptv.net:8080/live/asterix/asterix/167.m3u8
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn SD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2017/01/ESPN.jpg" group-title="Esportes",Espn SD
+http://maxptv.net:8080/live/asterix/asterix/166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="" group-title="Canais 24 Horas",Eu a Patroa e as Crianças
+http://maxptv.net:8080/live/asterix/asterix/321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada 24H" tvg-logo="" group-title="Infantil 24 horas",Familia da Pesada 24H
+http://maxptv.net:8080/live/asterix/asterix/1481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro  24H" tvg-logo="" group-title="Infantil 24 horas",Familia Dinossauro  24H
+http://maxptv.net:8080/live/asterix/asterix/569.m3u8
+#EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="Film&Arts HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/Film-%26-Arts.png/revision/latest?cb=20170101180238" group-title="Filmes",Film&Arts HD
+http://maxptv.net:8080/live/asterix/asterix/163.m3u8
+#EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="Film&Arts SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/Film-%26-Arts.png/revision/latest?cb=20170101180238" group-title="Filmes",Film&Arts SD
+http://maxptv.net:8080/live/asterix/asterix/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV HD" tvg-logo="" group-title="Documentários",FISH TV HD
+http://maxptv.net:8080/live/asterix/asterix/525.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://3.bp.blogspot.com/-q0bph3Y18IE/WHPYHEpWMeI/AAAAAAAAz0A/gLb3LgGEwE4NqI9MA1jiVl6pKCLIla6dwCLcB/s1600/logo-fishtv-blog1-770x439_c.jpg" group-title="Documentários",Fish TV SD
+http://maxptv.net:8080/live/asterix/asterix/161.m3u8
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="http://www.vcfaz.tv/userpix/209_food_1.jpg" group-title="Variedades",Food Network HD
+http://maxptv.net:8080/live/asterix/asterix/158.m3u8
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network SD" tvg-logo="http://www.vcfaz.tv/userpix/209_food_1.jpg" group-title="Variedades",Food Network SD
+http://maxptv.net:8080/live/asterix/asterix/159.m3u8
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://www.brechando.com/wp-content/uploads/2015/12/canal_fox_lam.png" group-title="Canais Séries",FOX HD
+http://maxptv.net:8080/live/asterix/asterix/157.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life HD" tvg-logo="http://static-brupacifico.gcampaner.com.br/wp-content/uploads/2014/07/LogoRojo-copy.png" group-title="Variedades",FOX Life HD
+http://maxptv.net:8080/live/asterix/asterix/156.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life SD" tvg-logo="http://static-brupacifico.gcampaner.com.br/wp-content/uploads/2014/07/LogoRojo-copy.png" group-title="Variedades",FOX Life SD
+http://maxptv.net:8080/live/asterix/asterix/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="" group-title="Canais Séries",Fox Premium 2 HD
+http://maxptv.net:8080/live/asterix/asterix/526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 SD" tvg-logo="" group-title="Canais Séries",Fox Premium 2 SD
+http://maxptv.net:8080/live/asterix/asterix/527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium HD" tvg-logo="" group-title="Canais Séries",Fox Premium HD
+http://maxptv.net:8080/live/asterix/asterix/528.m3u8
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium SD" tvg-logo="http://vcfaz.tv/img/logonovo/foxpremium1.jpg" group-title="Canais Séries",Fox Premium SD
+http://maxptv.net:8080/live/asterix/asterix/151.m3u8
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="http://www.brechando.com/wp-content/uploads/2015/12/canal_fox_lam.png" group-title="Canais Séries",FOX SD
+http://maxptv.net:8080/live/asterix/asterix/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="Esportes",Fox Sports 2 HD
+http://maxptv.net:8080/live/asterix/asterix/529.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="https://rd1.com.br/wp-content/uploads/2014/03/foxsports21.jpg" group-title="Esportes",Fox Sports 2 SD
+http://maxptv.net:8080/live/asterix/asterix/148.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://93noticias.com.br/imagens/noticias/2018/12/5E5F50E6-C23F-4261-BDC7-F4E478190EFA-350x197.jpeg" group-title="Esportes",Fox Sports HD
+http://maxptv.net:8080/live/asterix/asterix/147.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports SD" tvg-logo="http://93noticias.com.br/imagens/noticias/2018/12/5E5F50E6-C23F-4261-BDC7-F4E478190EFA-350x197.jpeg" group-title="Esportes",Fox Sports SD
+http://maxptv.net:8080/live/asterix/asterix/146.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13256740053501.jpg" group-title="Canais Séries",FX HD
+http://maxptv.net:8080/live/asterix/asterix/145.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13256740053501.jpg" group-title="Canais Séries",FX SD
+http://maxptv.net:8080/live/asterix/asterix/144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://i.ytimg.com/vi/gjz9PM4iWWg/maxresdefault.jpg" group-title="Infantil 24 horas",Galinha Pintadinha 24H
+http://maxptv.net:8080/live/asterix/asterix/1476.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Ribeirão HD" tvg-logo="http://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="Canais Abertos",Globo Ribeirão HD
+http://maxptv.net:8080/live/asterix/asterix/985.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Ribeirão SD" tvg-logo="http://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="Canais Abertos",Globo Ribeirão SD
+http://maxptv.net:8080/live/asterix/asterix/986.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globosp.png" group-title="Canais Abertos",Globo SP HD
+http://maxptv.net:8080/live/asterix/asterix/72.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globosp.png" group-title="Canais Abertos",Globo SP SD
+http://maxptv.net:8080/live/asterix/asterix/71.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="Notícias",GloboNews HD
+http://maxptv.net:8080/live/asterix/asterix/143.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews SD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="Notícias",GloboNews SD
+http://maxptv.net:8080/live/asterix/asterix/142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="" group-title="Infantis",Gloob HD
+http://maxptv.net:8080/live/asterix/asterix/530.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-6.png" group-title="Infantis",Gloob SD
+http://maxptv.net:8080/live/asterix/asterix/140.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2018/03/29/gnt.png" group-title="Variedades",GNT HD
+http://maxptv.net:8080/live/asterix/asterix/139.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2018/03/29/gnt.png" group-title="Variedades",GNT SD
+http://maxptv.net:8080/live/asterix/asterix/138.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://3.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNw/5x4z2seCJVs/s1600/H2_1.png" group-title="Documentários",H2 HD
+http://maxptv.net:8080/live/asterix/asterix/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="" group-title="Documentários",H2 SD
+http://maxptv.net:8080/live/asterix/asterix/523.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais HBO",HBO 2 HD
+http://maxptv.net:8080/live/asterix/asterix/135.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais HBO",HBO 2 SD
+http://maxptv.net:8080/live/asterix/asterix/134.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais HBO",HBO Family HD
+http://maxptv.net:8080/live/asterix/asterix/133.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais HBO",HBO Family SD
+http://maxptv.net:8080/live/asterix/asterix/132.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://1.bp.blogspot.com/-Wya56twP5SQ/XMaIfxfzgvI/AAAAAAAALC4/iwBMxY5RNv4t9Wg-Ts1I78Bbc5Y9X__qwCLcBGAs/s1600/hbo_blue-logo.png" group-title="Canais HBO",HBO HD
+http://maxptv.net:8080/live/asterix/asterix/131.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-74-canal-hbo-plus-e.png" group-title="Canais HBO",HBO Plus HD
+http://maxptv.net:8080/live/asterix/asterix/128.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-74-canal-hbo-plus-e.png" group-title="Canais HBO",HBO Plus SD
+http://maxptv.net:8080/live/asterix/asterix/127.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://1.bp.blogspot.com/-Wya56twP5SQ/XMaIfxfzgvI/AAAAAAAALC4/iwBMxY5RNv4t9Wg-Ts1I78Bbc5Y9X__qwCLcBGAs/s1600/hbo_blue-logo.png" group-title="Canais HBO",HBO SD
+http://maxptv.net:8080/live/asterix/asterix/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="" group-title="Canais HBO",HBO Signature HD
+http://maxptv.net:8080/live/asterix/asterix/531.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Canais HBO",HBO Signature SD
+http://maxptv.net:8080/live/asterix/asterix/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="Documentários",History Channel HD
+http://maxptv.net:8080/live/asterix/asterix/532.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel SD" tvg-logo="http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png" group-title="Documentários",History Channel SD
+http://maxptv.net:8080/live/asterix/asterix/122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 24H" tvg-logo="" group-title="Infantil 24 horas",Homem-Aranha 24H
+http://maxptv.net:8080/live/asterix/asterix/566.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/LOGOID2016.png/revision/latest?cb=20160719195248" group-title="Canais Séries",ID HD
+http://maxptv.net:8080/live/asterix/asterix/121.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/LOGOID2016.png/revision/latest?cb=20160719195248" group-title="Canais Séries",ID SD
+http://maxptv.net:8080/live/asterix/asterix/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24H" tvg-logo="" group-title="Canais 24 Horas",Jaspion 24H
+http://maxptv.net:8080/live/asterix/asterix/570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="https://http2.mlstatic.com/dvd-colecao-jiraya-D_NQ_NP_773820-MLB25537680599_042017-F.jpg" group-title="Canais 24 Horas",Jiraya  O Incrivel Ninja 24H
+http://maxptv.net:8080/live/asterix/asterix/1475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Larva 24H" tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="Infantil 24 horas",Larva 24H
+http://maxptv.net:8080/live/asterix/asterix/1474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="Canais Séries",Lifetime HD
+http://maxptv.net:8080/live/asterix/asterix/522.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="Canais Séries",Lifetime SD
+http://maxptv.net:8080/live/asterix/asterix/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lion Man 24H" tvg-logo="https://i.ytimg.com/vi/YafPBIT19ns/hqdefault.jpg" group-title="Canais 24 Horas",Lion Man 24H
+http://maxptv.net:8080/live/asterix/asterix/1473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunnes 24H" tvg-logo="" group-title="Infantil 24 horas",Looney Tunnes 24H
+http://maxptv.net:8080/live/asterix/asterix/565.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1200px-Mais_Globosat_logo_2016.svg.png" group-title="Variedades",Mais Globosat HD
+http://maxptv.net:8080/live/asterix/asterix/117.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1200px-Mais_Globosat_logo_2016.svg.png" group-title="Variedades",Mais Globosat SD
+http://maxptv.net:8080/live/asterix/asterix/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL & DC 24H" tvg-logo="" group-title="Canais 24 Horas",MARVEL & DC 24H
+http://maxptv.net:8080/live/asterix/asterix/545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="" group-title="Canais HBO",HBO Mundi HD
+http://maxptv.net:8080/live/asterix/asterix/521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="" group-title="Canais HBO",HBO Xtreme HD
+http://maxptv.net:8080/live/asterix/asterix/520.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="Canais HBO",HBO Xtreme SD
+http://maxptv.net:8080/live/asterix/asterix/113.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="data:image/png;base64,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" group-title="Canais HBO",HBO Mundi SD
+http://maxptv.net:8080/live/asterix/asterix/112.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD" tvg-logo="https://i1.wp.com/famososnaweb.com/wp-content/uploads/2015/01/max-up-canal.png?ssl=1" group-title="Canais HBO",HBO Pop HD
+http://maxptv.net:8080/live/asterix/asterix/111.m3u8
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SD" tvg-logo="https://i1.wp.com/famososnaweb.com/wp-content/uploads/2015/01/max-up-canal.png?ssl=1" group-title="Canais HBO",HBO Pop SD
+http://maxptv.net:8080/live/asterix/asterix/110.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Megapix_logo_2011.png/1024px-Megapix_logo_2011.png" group-title="Filmes",Megapix HD
+http://maxptv.net:8080/live/asterix/asterix/109.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Megapix_logo_2011.png/1024px-Megapix_logo_2011.png" group-title="Filmes",Megapix SD
+http://maxptv.net:8080/live/asterix/asterix/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="" group-title="Canais 24 Horas",MR. Bean 24H
+http://maxptv.net:8080/live/asterix/asterix/546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Entreterimento/Musíca",MTV HD
+http://maxptv.net:8080/live/asterix/asterix/519.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="Entreterimento/Musíca",MTV SD
+http://maxptv.net:8080/live/asterix/asterix/106.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Entreterimento/Musíca",MULTISHOW HD
+http://maxptv.net:8080/live/asterix/asterix/105.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Entreterimento/Musíca",MULTISHOW SD
+http://maxptv.net:8080/live/asterix/asterix/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Naruto 24H" tvg-logo="" group-title="Infantil 24 horas",Naruto 24H
+http://maxptv.net:8080/live/asterix/asterix/564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="" group-title="Infantis",Nat Geo Kids HD
+http://maxptv.net:8080/live/asterix/asterix/518.m3u8
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Infantis",Nat Geo Kids SD
+http://maxptv.net:8080/live/asterix/asterix/102.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="Documentários",Nat Geo Wild HD
+http://maxptv.net:8080/live/asterix/asterix/101.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="Documentários",Nat Geo Wild SD
+http://maxptv.net:8080/live/asterix/asterix/100.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://blogdescalada.com/wp-content/uploads/2013/03/nationalgeographicchannel-300x300.jpg" group-title="Documentários",National Geographic HD
+http://maxptv.net:8080/live/asterix/asterix/99.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="http://blogdescalada.com/wp-content/uploads/2013/03/nationalgeographicchannel-300x300.jpg" group-title="Documentários",National Geographic SD
+http://maxptv.net:8080/live/asterix/asterix/98.m3u8
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2011/08/nhk_world.png" group-title="Mundo",NHK HD
+http://maxptv.net:8080/live/asterix/asterix/97.m3u8
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2011/08/nhk_world.png" group-title="Mundo",NHK SD
+http://maxptv.net:8080/live/asterix/asterix/96.m3u8
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Infantis",Nick Jr HD
+http://maxptv.net:8080/live/asterix/asterix/95.m3u8
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Infantis",Nick Jr SD
+http://maxptv.net:8080/live/asterix/asterix/94.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://vignette.wikia.nocookie.net/vvikipedia/images/e/e4/559.png/revision/latest?cb=20140305100026&path-prefix=pt" group-title="Infantis",Nickelodeon HD
+http://maxptv.net:8080/live/asterix/asterix/93.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="https://vignette.wikia.nocookie.net/vvikipedia/images/e/e4/559.png/revision/latest?cb=20140305100026&path-prefix=pt" group-title="Infantis",Nickelodeon SD
+http://maxptv.net:8080/live/asterix/asterix/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="" group-title="Infantil 24 horas",Os Simpsons 24H
+http://maxptv.net:8080/live/asterix/asterix/563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H" tvg-logo="https://i.imgur.com/1PxCVdn.png" group-title="Canais 24 Horas",Os Vingadores 24H
+http://maxptv.net:8080/live/asterix/asterix/1482.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel HD" tvg-logo="https://2.bp.blogspot.com/-JUwFJKXBGqo/VsDY2uRe5MI/AAAAAAAAnik/jyre2yc-aBYsmHUEtPrmP7o4_18eD8ZPgCKgB/s1600/Paramount_2016.png" group-title="Filmes",Paramount Channel HD
+http://maxptv.net:8080/live/asterix/asterix/91.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel SD" tvg-logo="https://2.bp.blogspot.com/-JUwFJKXBGqo/VsDY2uRe5MI/AAAAAAAAnik/jyre2yc-aBYsmHUEtPrmP7o4_18eD8ZPgCKgB/s1600/Paramount_2016.png" group-title="Filmes",Paramount Channel SD
+http://maxptv.net:8080/live/asterix/asterix/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H" tvg-logo="" group-title="Infantil 24 horas",Peppa Pig 24H
+http://maxptv.net:8080/live/asterix/asterix/562.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfEwGTwlJU_2oCwHDqvZDAwdcNafUNnqTOIbZ9hc8spcOQvPk" group-title="xxx",Playboy HD
+http://maxptv.net:8080/live/asterix/asterix/88.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfEwGTwlJU_2oCwHDqvZDAwdcNafUNnqTOIbZ9hc8spcOQvPk" group-title="xxx",Playboy SD
+http://maxptv.net:8080/live/asterix/asterix/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO 24H" tvg-logo="" group-title="Infantil 24 horas",POCOYO 24H
+http://maxptv.net:8080/live/asterix/asterix/561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon 24H" tvg-logo="" group-title="Infantil 24 horas",Pokemon 24H
+http://maxptv.net:8080/live/asterix/asterix/560.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 1 HD
+http://maxptv.net:8080/live/asterix/asterix/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD Alternativo" tvg-logo="" group-title="Canais Premiere",Premiere 1 HD Alternativo
+http://maxptv.net:8080/live/asterix/asterix/1461.m3u8
+#EXTINF:-1 tvg-id="Premiereinterativo.br" tvg-name="Premiere 1 HD2" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 1 HD2
+http://maxptv.net:8080/live/asterix/asterix/247.m3u8
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 1 SD
+http://maxptv.net:8080/live/asterix/asterix/85.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 2 HD
+http://maxptv.net:8080/live/asterix/asterix/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD Alternativo" tvg-logo="" group-title="Canais Premiere",Premiere 2 HD Alternativo
+http://maxptv.net:8080/live/asterix/asterix/1462.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 2 SD
+http://maxptv.net:8080/live/asterix/asterix/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="" group-title="",PREMIERE 3 FHD
+http://maxptv.net:8080/live/asterix/asterix/3065.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 3 HD
+http://maxptv.net:8080/live/asterix/asterix/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD Alternativo" tvg-logo="" group-title="Canais Premiere",Premiere 3 HD Alternativo
+http://maxptv.net:8080/live/asterix/asterix/1463.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 3 SD
+http://maxptv.net:8080/live/asterix/asterix/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="" group-title="",PREMIERE 4 FHD
+http://maxptv.net:8080/live/asterix/asterix/3066.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 4 HD
+http://maxptv.net:8080/live/asterix/asterix/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD Alternativo" tvg-logo="" group-title="Canais Premiere",Premiere 4 HD Alternativo
+http://maxptv.net:8080/live/asterix/asterix/1464.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 4 SD
+http://maxptv.net:8080/live/asterix/asterix/79.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 5 HD
+http://maxptv.net:8080/live/asterix/asterix/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD Alternativo" tvg-logo="" group-title="Canais Premiere",Premiere 5 HD Alternativo
+http://maxptv.net:8080/live/asterix/asterix/1465.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 5 SD
+http://maxptv.net:8080/live/asterix/asterix/77.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 6 HD
+http://maxptv.net:8080/live/asterix/asterix/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD Alternativo" tvg-logo="" group-title="Canais Premiere",Premiere 6 HD Alternativo
+http://maxptv.net:8080/live/asterix/asterix/1466.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 6 SD
+http://maxptv.net:8080/live/asterix/asterix/75.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 7 HD
+http://maxptv.net:8080/live/asterix/asterix/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD Alternativo" tvg-logo="" group-title="Canais Premiere",Premiere 7 HD Alternativo
+http://maxptv.net:8080/live/asterix/asterix/1467.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais Premiere",Premiere 7 SD
+http://maxptv.net:8080/live/asterix/asterix/73.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg" group-title="Canais Abertos",Record HD
+http://maxptv.net:8080/live/asterix/asterix/240.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD 2" tvg-logo="https://static.otvfoco.com.br/2016/06/Logo-Rede-Record-fev.2012.jpg" group-title="Canais Abertos",Record HD 2
+http://maxptv.net:8080/live/asterix/asterix/68.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg" group-title="Notícias",Record News HD
+http://maxptv.net:8080/live/asterix/asterix/67.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg" group-title="Notícias",Record News SD
+http://maxptv.net:8080/live/asterix/asterix/66.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg" group-title="Canais Abertos",Record SD
+http://maxptv.net:8080/live/asterix/asterix/239.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP HD" tvg-logo="http://informa1.com.br/wp-content/uploads/2015/03/logo-rede-record-1316892247.jpg" group-title="Canais Abertos",Record SP HD
+http://maxptv.net:8080/live/asterix/asterix/65.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP SD" tvg-logo="http://informa1.com.br/wp-content/uploads/2015/03/logo-rede-record-1316892247.jpg" group-title="Canais Abertos",Record SP SD
+http://maxptv.net:8080/live/asterix/asterix/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="" group-title="",REDE TV FHD
+http://maxptv.net:8080/live/asterix/asterix/3071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Religião",Rede Vida HD
+http://maxptv.net:8080/live/asterix/asterix/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Religião",Rede Vida SD
+http://maxptv.net:8080/live/asterix/asterix/63.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV HD" tvg-logo="https://ocanal.files.wordpress.com/2013/03/rede-tv-logo.jpg" group-title="Canais Abertos",RedeTV HD
+http://maxptv.net:8080/live/asterix/asterix/61.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD" tvg-logo="https://ocanal.files.wordpress.com/2013/03/rede-tv-logo.jpg" group-title="Canais Abertos",RedeTV SD
+http://maxptv.net:8080/live/asterix/asterix/60.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="Rá -Tim Bum- HD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="Infantis",Rá -Tim Bum- HD
+http://maxptv.net:8080/live/asterix/asterix/70.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="Rá- Tim- Bum SD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="Infantis",Rá- Tim- Bum SD
+http://maxptv.net:8080/live/asterix/asterix/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT FHD INTERIOR" tvg-logo="" group-title="",SBT FHD INTERIOR
+http://maxptv.net:8080/live/asterix/asterix/3060.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="Sbt HD" tvg-logo="https://ocanal.files.wordpress.com/2011/06/logo-sbt.jpg" group-title="Canais Abertos",Sbt HD
+http://maxptv.net:8080/live/asterix/asterix/59.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="Sbt SD" tvg-logo="https://ocanal.files.wordpress.com/2011/06/logo-sbt.jpg" group-title="Canais Abertos",Sbt SD
+http://maxptv.net:8080/live/asterix/asterix/58.m3u8
+#EXTINF:-1 tvg-id="Sextreme.cl" tvg-name="Sextreme HD" tvg-logo="http://www.mgconecta.com.br/wp-content/uploads/2016/05/Sextreme.png" group-title="xxx",Sextreme HD
+http://maxptv.net:8080/live/asterix/asterix/57.m3u8
+#EXTINF:-1 tvg-id="Sextreme.cl" tvg-name="Sextreme SD" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png" group-title="xxx",Sextreme SD
+http://maxptv.net:8080/live/asterix/asterix/56.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="xxx",Sexy Hot HD
+http://maxptv.net:8080/live/asterix/asterix/55.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="xxx",Sexy Hot SD
+http://maxptv.net:8080/live/asterix/asterix/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Show da Luna 24H" tvg-logo="" group-title="Infantil 24 horas",Show da Luna 24H
+http://maxptv.net:8080/live/asterix/asterix/559.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png" group-title="Canais Séries",Sony HD
+http://maxptv.net:8080/live/asterix/asterix/53.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png" group-title="Canais Séries",Sony SD
+http://maxptv.net:8080/live/asterix/asterix/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24H" tvg-logo="" group-title="Canais 24 Horas",South Park 24H
+http://maxptv.net:8080/live/asterix/asterix/544.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="https://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s640/spacehd.png" group-title="Filmes",Space HD
+http://maxptv.net:8080/live/asterix/asterix/51.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="https://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s640/spacehd.png" group-title="Filmes",Space SD
+http://maxptv.net:8080/live/asterix/asterix/50.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SporTV_logo_2011.png/revision/latest/scale-to-width-down/2000?cb=20120720191551" group-title="Esportes",SporTV HD
+http://maxptv.net:8080/live/asterix/asterix/49.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SporTV_logo_2011.png/revision/latest/scale-to-width-down/2000?cb=20120720191551" group-title="Esportes",SporTV SD
+http://maxptv.net:8080/live/asterix/asterix/48.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 HD" tvg-logo="http://i.imgur.com/FqoGagc.png" group-title="Esportes",SporTV2 HD
+http://maxptv.net:8080/live/asterix/asterix/47.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 SD" tvg-logo="http://i.imgur.com/FqoGagc.png" group-title="Esportes",SporTV2 SD
+http://maxptv.net:8080/live/asterix/asterix/46.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 HD" tvg-logo="http://2.bp.blogspot.com/-iPsi_6DaK2I/ToPE1b3QSJI/AAAAAAAAAOU/td7RK_rvlVk/s1600/sportv.jpg" group-title="Esportes",SporTV3 HD
+http://maxptv.net:8080/live/asterix/asterix/45.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 SD" tvg-logo="http://2.bp.blogspot.com/-iPsi_6DaK2I/ToPE1b3QSJI/AAAAAAAAAOU/td7RK_rvlVk/s1600/sportv.jpg" group-title="Esportes",SporTV3 SD
+http://maxptv.net:8080/live/asterix/asterix/44.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/09/Studio-Universal.jpg" group-title="Filmes",Studio Universal HD
+http://maxptv.net:8080/live/asterix/asterix/43.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/09/Studio-Universal.jpg" group-title="Filmes",Studio Universal SD
+http://maxptv.net:8080/live/asterix/asterix/42.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy HD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais Séries",Syfy HD
+http://maxptv.net:8080/live/asterix/asterix/41.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy SD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais Séries",Syfy SD
+http://maxptv.net:8080/live/asterix/asterix/40.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="Tbs HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/tbs_N.png" group-title="Canais Séries",Tbs HD
+http://maxptv.net:8080/live/asterix/asterix/39.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="Tbs SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/tbs_N.png" group-title="Canais Séries",Tbs SD
+http://maxptv.net:8080/live/asterix/asterix/38.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://o2filmes.com/files/images/2013_12/tcm_logo.jpg" group-title="Filmes",TCM HD
+http://maxptv.net:8080/live/asterix/asterix/37.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://o2filmes.com/files/images/2013_12/tcm_logo.jpg" group-title="Filmes",TCM SD
+http://maxptv.net:8080/live/asterix/asterix/36.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="https://2.bp.blogspot.com/-HkwkIJr5V6w/WJ_sVqWD2QI/AAAAAAAAAdM/PMcbiX_d5ykwjtvG1c4_jLiV3qk3pHFigCLcB/s468/assistir-tv-telecine-action-ao-vivo-ver-online-gratis-em-hd-pela-internet-2.jpg" group-title="Canais Telecine",Telecine Action HD
+http://maxptv.net:8080/live/asterix/asterix/35.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="https://2.bp.blogspot.com/-HkwkIJr5V6w/WJ_sVqWD2QI/AAAAAAAAAdM/PMcbiX_d5ykwjtvG1c4_jLiV3qk3pHFigCLcB/s468/assistir-tv-telecine-action-ao-vivo-ver-online-gratis-em-hd-pela-internet-2.jpg" group-title="Canais Telecine",Telecine Action SD
+http://maxptv.net:8080/live/asterix/asterix/34.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="Canais Telecine",Telecine Cult HD
+http://maxptv.net:8080/live/asterix/asterix/33.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="Canais Telecine",Telecine Cult SD
+http://maxptv.net:8080/live/asterix/asterix/32.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="https://i.pinimg.com/originals/c3/79/80/c3798088b6df5178ff8fe3ae7b7d9ec3.jpg" group-title="Canais Telecine",Telecine Fun HD
+http://maxptv.net:8080/live/asterix/asterix/31.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="https://i.pinimg.com/originals/c3/79/80/c3798088b6df5178ff8fe3ae7b7d9ec3.jpg" group-title="Canais Telecine",Telecine Fun SD
+http://maxptv.net:8080/live/asterix/asterix/30.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://1.bp.blogspot.com/-LTY5eEcEAUA/UEb0puFvJEI/AAAAAAAABAk/9A6mx5qFCr4/s320/Telecine_Pipoca_logo.gif" group-title="Canais Telecine",Telecine Pipoca HD
+http://maxptv.net:8080/live/asterix/asterix/29.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://1.bp.blogspot.com/-LTY5eEcEAUA/UEb0puFvJEI/AAAAAAAABAk/9A6mx5qFCr4/s320/Telecine_Pipoca_logo.gif" group-title="Canais Telecine",Telecine Pipoca SD
+http://maxptv.net:8080/live/asterix/asterix/28.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="Canais Telecine",Telecine Premium HD
+http://maxptv.net:8080/live/asterix/asterix/27.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="Canais Telecine",Telecine Premium SD
+http://maxptv.net:8080/live/asterix/asterix/26.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="Canais Telecine",Telecine Touch HD
+http://maxptv.net:8080/live/asterix/asterix/25.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://www.sempretops.com/wp-content/uploads/telecine-touch-logo-nova-online-ao-vivo.gif" group-title="Canais Telecine",Telecine Touch SD
+http://maxptv.net:8080/live/asterix/asterix/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Backyardigans 24H" tvg-logo="" group-title="Infantil 24 horas",The Backyardigans 24H
+http://maxptv.net:8080/live/asterix/asterix/558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24H" tvg-logo="" group-title="Canais 24 Horas",The Big Bang Theory 24H
+http://maxptv.net:8080/live/asterix/asterix/543.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/1200px-TLC-Logo_2016.png" group-title="Variedades",TLC HD
+http://maxptv.net:8080/live/asterix/asterix/23.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/1200px-TLC-Logo_2016.png" group-title="Variedades",TLC SD
+http://maxptv.net:8080/live/asterix/asterix/22.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="Filmes",TNT HD
+http://maxptv.net:8080/live/asterix/asterix/21.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="Filmes",TNT SD
+http://maxptv.net:8080/live/asterix/asterix/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="Canais Séries",TNT Series HD
+http://maxptv.net:8080/live/asterix/asterix/517.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series SD" tvg-logo="https://abrilveja.files.wordpress.com/2016/11/tntsc3a9ries-253x300.jpg?quality=70&strip=all&strip=infoIQgEIQg/9k=" group-title="Canais Séries",TNT Series SD
+http://maxptv.net:8080/live/asterix/asterix/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://segredosdomundo.r7.com/wp-content/uploads/2019/06/saiba-o-que-realmente-e-verdade-no-seriado-todo-mundo-odeia-o-chris-4.jpg" group-title="Canais 24 Horas",Todo Mundo Odeia o Cris
+http://maxptv.net:8080/live/asterix/asterix/317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="" group-title="Infantil 24 horas",Tom & Jerry  24H
+http://maxptv.net:8080/live/asterix/asterix/557.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://4.bp.blogspot.com/-pt3Qf21GwzU/U73Da-zVjtI/AAAAAAAAjKs/wVZxjXgB8LM/s1600/tooncast.png" group-title="Infantis",Tooncast HD
+http://maxptv.net:8080/live/asterix/asterix/17.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://4.bp.blogspot.com/-pt3Qf21GwzU/U73Da-zVjtI/AAAAAAAAjKs/wVZxjXgB8LM/s1600/tooncast.png" group-title="Infantis",Tooncast SD
+http://maxptv.net:8080/live/asterix/asterix/16.m3u8
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png" group-title="Canais Religião",TV Aparecida HD
+http://maxptv.net:8080/live/asterix/asterix/15.m3u8
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png" group-title="Canais Religião",TV Aparecida SD
+http://maxptv.net:8080/live/asterix/asterix/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Preto" tvg-logo="http://tvdacidade.amplitudenet.com.br/images/logo_white.png" group-title="Canais Abertos",TV Rio Preto
+http://maxptv.net:8080/live/asterix/asterix/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Two And a Half Man 24H" tvg-logo="" group-title="Canais 24 Horas",Two And a Half Man 24H
+http://maxptv.net:8080/live/asterix/asterix/542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaco  24H" tvg-logo="" group-title="Canais 24 Horas",Um Maluco No Pedaco  24H
+http://maxptv.net:8080/live/asterix/asterix/541.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="Canais Séries",Universal Channel HD
+http://maxptv.net:8080/live/asterix/asterix/12.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="Canais Séries",Universal Channel SD
+http://maxptv.net:8080/live/asterix/asterix/11.m3u8
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="Venus HD" tvg-logo="http://consultoriapt.com/images/venus-logo.png" group-title="xxx",Venus HD
+http://maxptv.net:8080/live/asterix/asterix/10.m3u8
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="Venus SD" tvg-logo="http://consultoriapt.com/images/venus-logo.png" group-title="xxx",Venus SD
+http://maxptv.net:8080/live/asterix/asterix/9.m3u8
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e5/VH1_HD_Brasil_logo.jpg" group-title="Entreterimento/Musíca",VH1 HD
+http://maxptv.net:8080/live/asterix/asterix/8.m3u8
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e5/VH1_HD_Brasil_logo.jpg" group-title="Entreterimento/Musíca",VH1 SD
+http://maxptv.net:8080/live/asterix/asterix/7.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Variedades",Viva HD
+http://maxptv.net:8080/live/asterix/asterix/6.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Variedades",Viva SD
+http://maxptv.net:8080/live/asterix/asterix/5.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Bros HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/WBTV1995-2.png/revision/latest?cb=20180127175603" group-title="Canais Séries",Warner Bros HD
+http://maxptv.net:8080/live/asterix/asterix/4.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Bros SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/WBTV1995-2.png/revision/latest?cb=20180127175603" group-title="Canais Séries",Warner Bros SD
+http://maxptv.net:8080/live/asterix/asterix/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24H" tvg-logo="https://i.imgur.com/3LTJ2Oj.gif" group-title="Infantil 24 horas",X-Men Evolution 24H
+http://maxptv.net:8080/live/asterix/asterix/1483.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/200px-ZooMoo_logo.svg.png" group-title="Infantis",Zoomoo HD
+http://maxptv.net:8080/live/asterix/asterix/2.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/200px-ZooMoo_logo.svg.png" group-title="Infantis",Zoomoo SD
+http://maxptv.net:8080/live/asterix/asterix/1.m3u8
