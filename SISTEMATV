@@ -7,9 +7,9 @@ Servidor PT
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR PT[/COLOR]</name>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR TV #1[/COLOR]</name>
 <thumbnail>https://i.imgur.com/yRYxB4A.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20PT</externallink>
+<externallink></externallink>
 <fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
 <info></info>
 </link>
@@ -19,7 +19,7 @@ Servidor BR
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR BR[/COLOR]</name>
+<name>[COLOR blue]MIDBOX[/COLOR] [COLOR silver]SERVIDOR TV #2[/COLOR]</name>
 <thumbnail>https://i.imgur.com/a41GHPM.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/SERVIDOR%20BR</externallink>
 <fanart>https://i.imgur.com/BIn2wOg.jpg</fanart>
