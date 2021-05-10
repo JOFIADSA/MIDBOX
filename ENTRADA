@@ -16,7 +16,37 @@
 
 <channels>
 <channel>
-<name>[COLOR silver]ENTRE AQUI[/COLOR]</name>
+<name>[COLOR silver] SERVIDOR DE IPTV #1[/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/6/items/addon.midbox/entrada%20icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/CATEGORIAS</externallink>
+<fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
+<info>
+
+
+.::MIDBOX - MULTIMIDIA BOX::.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR silver] SERVIDOR DE IPTV #2[/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/6/items/addon.midbox/entrada%20icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/CATEGORIAS</externallink>
+<fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
+<info>
+
+
+.::MIDBOX - MULTIMIDIA BOX::.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR silver] SERVIDOR DE IPTV WORLD[/COLOR]</name>
 <thumbnail>https://ia601505.us.archive.org/6/items/addon.midbox/entrada%20icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/JOFIADSA/MIDBOX/master/CATEGORIAS</externallink>
 <fanart>https://ia601505.us.archive.org/6/items/addon.midbox/fanart.jpg</fanart>
